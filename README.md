@@ -7,8 +7,8 @@
 
 ## Download LSP Dataset
 
--http://www.comp.leeds.ac.uk/mat4saj/lsp.html
--http://www.comp.leeds.ac.uk/mat4saj/lspet.html
+- http://www.comp.leeds.ac.uk/mat4saj/lsp.html
+- http://www.comp.leeds.ac.uk/mat4saj/lspet.html
 
 ## Training
 
